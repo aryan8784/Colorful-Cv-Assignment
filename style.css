@@ -1,0 +1,34 @@
+#personal-info {
+    background-color: #F9A825;
+    color: #000000;
+    padding: 20px;
+  }
+  
+  .education {
+    background-color: #26C6DA;
+    color: #000000;
+    padding: 20px;
+  }
+  
+  #experience {
+    background-color: #4CAF50;
+    color: #000000;
+    padding: 20px;
+  }
+  .SKILLS{
+    background-color: #7a4caf;
+    color: #FFFFFF;
+    padding: 20px;
+  }
+  #LANGUAGES{
+    background-color: #72536a;
+    color: #FFFFFF;
+    padding: 20px
+  }
+
+  h1{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+  }
